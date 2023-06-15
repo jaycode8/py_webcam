@@ -1,7 +1,7 @@
 ## Phone webcam with python
 To clone this repo open a cmd, powershell or terminal and key the following command
 
-`git clone https://github.com/jaycode8/`
+`git clone https://github.com/jaycode8/py_webcam.git`
 
 Another approach is to download the project zip files
 
